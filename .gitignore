@@ -2,6 +2,9 @@
 future/src/future
 jabbamaps/src/jabbamaps
 jason/src/jason
+rsa/src/rsa
+chess/src/chess
+zoomba/src/zoomba
 
 # object files
 *.o
