@@ -1,0 +1,7 @@
+# compiled binaries
+future/src/future
+jabbamaps/src/jabbamaps
+jason/src/jason
+
+# object files
+*.o
